@@ -56,4 +56,3 @@ function timer(classSelector,deadlineTime) {
 }
 
 // export default timer;
-// export {getZero};
